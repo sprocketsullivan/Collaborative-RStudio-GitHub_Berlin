@@ -7,10 +7,10 @@
 sig2 <- 3
     
 # e.g. "anas_krystallinus"    
-species.name <- "zoo3"
+species.name <- "pelle_hippo"
     
 # e.g. "red"    
-color <- "blue"
+color <- "red"
     
 # tip: pick a color using rstudio colour picker. 
 # Addins > Colour Picker (to install: install.packages("colourpicker"))
